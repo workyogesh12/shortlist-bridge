@@ -1,7 +1,7 @@
 
 # Today's Pool
 
-> Mark items I'll focus on today with #today
+> Mark items I'll focus on today with 
 
 
 ## Pool
