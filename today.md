@@ -3,7 +3,9 @@
 
 > Mark items I'll focus on today with #today
 
+
 ## Pool
+- #today TEST RUN at 3:25 PM
 - #today Write the first draft of the blog post
 - buy milk on the way home
 - #today Call mom — it's been a week
